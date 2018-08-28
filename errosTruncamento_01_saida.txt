@@ -1,0 +1,2 @@
+Serie de McLaurin com f(x) = (cos(x) + e^x) e x = 3
+Valor calculado pela série: 15.5567. Valor calculado pela função cos(x)+e³ : 21.0842.
