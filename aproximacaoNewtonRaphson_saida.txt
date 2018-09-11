@@ -1,0 +1,6 @@
+Newton-Raphson
+Precisão e=-8
+f(x) = x^3 + sen(x^2) - x^4/e
+f(-0.7) = 0.039298
+break iteracao 4
+final f (-0.745144) = 1.24417e-08
