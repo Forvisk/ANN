@@ -1,0 +1,20 @@
+C:\Users\adria\Desktop\UDESC\ANN>g++ trapezioComposto.cpp
+
+C:\Users\adria\Desktop\UDESC\ANN>a.exe
+máximo de f''(x) com x entre [ 0,1] é com x = 1
+max f''(x) com x entre [0, 1] é 1,7182818
+Método dos Trapézios Compostos
+
+        Função utilizada: f(x) = e^(x^3) - x^3
+        Derivada segunda: f''(x) = 6 * x * e^(x^3) + 9 * x^4 * e^(x^3) -6 * x
+        Intervalo [ 0, 1]
+        Erro de 10^-6
+        Numero de trapézios recomendado: 1703
+        h =  0.000587199
+Resultado: 1.0909
+
+        Numero de trapézios: 1
+        h =  1
+Resultado: 1.35914
+
+C:\Users\adria\Desktop\UDESC\ANN>

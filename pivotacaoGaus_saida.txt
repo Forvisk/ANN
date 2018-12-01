@@ -1,0 +1,58 @@
+C:\Users\adria\Desktop\UDESC\ANN>a.exe
+Método da Pivotação de Gaus
+Utilizaremos a seguinte matriz matriz:
+A =     |  3  4  5 |
+        |  6  7  8 |
+        |  9 10 11 |
+E utilizaremos:
+b =     | 12 |
+        | 13 |
+        | 14 |
+
+Imprimindo Matriz
+M =     | 3.000000 4.000000 5.000000 |
+        | 6.000000 7.000000 8.000000 |
+        | 9.000000 10.000000 11.000000 |
+
+
+Imprimindo Matriz
+M =     | 12.000000 |
+        | 13.000000 |
+        | 14.000000 |
+
+Div1 = 2; Div2 = 3; Div3 = 2.
+A Pivotado
+
+Imprimindo Matriz
+M =     | 3.000000 4.000000 5.000000 |
+        | 2.000000 -1.000000 -2.000000 |
+        | 3.000000 2.000000 -14.000000 |
+
+Lower
+
+Imprimindo Matriz
+M =     | 1.000000 0.000000 0.000000 |
+        | 2.000000 1.000000 0.000000 |
+        | 3.000000 2.000000 1.000000 |
+
+Upper Pivotado
+
+Imprimindo Matriz
+M =     | 3.000000 4.000000 5.000000 |
+        | 0.000000 -1.000000 -2.000000 |
+        | 0.000000 0.000000 -14.000000 |
+
+Vetor Y
+Imprimindo Matriz
+M =     | 12.000000 |
+        | -11.000000 |
+        | 0.000000 |
+
+Vetor X
+Imprimindo Matriz
+M =     | -10.666667 |
+        | 11.000000 |
+        | -0.000000 |
+
+
+C:\Users\adria\Desktop\UDESC\ANN>

@@ -1,0 +1,41 @@
+C:\Users\adria\Desktop\UDESC\ANN>g++ interpolacaoQuadratica.cpp
+
+C:\Users\adria\Desktop\UDESC\ANN>a.exe
+Interpolação Quadrática
+P(1, 1)
+P(5, 15)
+P(7, 16)
+
+Imprimindo Matriz
+M =     | 1.000000 1.000000 1.000000 |
+        | 1.000000 5.000000 25.000000 |
+        | 1.000000 7.000000 49.000000 |
+
+
+Imprimindo Matriz
+M =     | 1.000000 |
+        | 15.000000 |
+        | 16.000000 |
+
+ ---------- Pos Pivotacao ----------
+
+Imprimindo Matriz
+M =     | 1.000000 1.000000 1.000000 |
+        | 0.000000 4.000000 24.000000 |
+        | 0.000000 0.000000 12.000000 |
+
+
+Imprimindo Matriz
+M =     | 1.000000 |
+        | 14.000000 |
+        | -6.000000 |
+
+Vetor a
+
+Imprimindo Matriz
+M =     | -5.000000 |
+        | 6.500000 |
+        | -0.500000 |
+
+F(x) = -5 + 6.5x + -0.5x²
+C:\Users\adria\Desktop\UDESC\ANN>
